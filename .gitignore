@@ -1,3 +1,10 @@
+Readme.txt
+*DS_Stores
+.gitignore
+forms
+changelog.txt
+portfolio-details.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
