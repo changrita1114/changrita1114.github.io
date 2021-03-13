@@ -1,6 +1,7 @@
 Readme.txt
-*DS_Stores
+.DS_Store
 .gitignore
+testimonials
 forms
 changelog.txt
 portfolio-details.html
