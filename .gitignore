@@ -5,7 +5,9 @@ testimonials
 forms
 changelog.txt
 portfolio-details.html
-
+apple-touch-icon.png
+favicon.png
+.vscode
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
